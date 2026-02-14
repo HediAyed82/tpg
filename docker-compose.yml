@@ -1,0 +1,9 @@
+services:
+  chatbot:
+    build: .
+    container_name: chainlit_chatbot
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./chroma_db:/app/chroma_db
+    restart: unless-stopped
