@@ -1,0 +1,841 @@
+<doctag><text><loc_67><loc_331><loc_77><loc_352>otpg</text>
+<text><loc_83><loc_317><loc_97><loc_332>866</text>
+<text><loc_104><loc_179><loc_117><loc_194>18</text>
+<text><loc_116><loc_179><loc_154><loc_202>BACHET-GARE</text>
+<text><loc_111><loc_308><loc_117><loc_317>54</text>
+<text><loc_136><loc_335><loc_161><loc_356>atpg</text>
+<picture><loc_437><loc_38><loc_486><loc_74></picture>
+<section_header_level_1><loc_207><loc_206><loc_476><loc_299>Manuel d'utilisation Bombardier Cityrunner</section_header_level_1>
+<page_break>
+<section_header_level_1><loc_46><loc_18><loc_240><loc_60>Table de matieres</section_header_level_1>
+<unordered_list><list_item><loc_34><loc_113><loc_117><loc_133>Table de matières</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_140><loc_210><loc_160>Caractéristiques techniques du véhicule</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_167><loc_120><loc_187>Poste de conduite</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_195><loc_288><loc_215>Manipulateur gauche et droit avec «homme-mort» intégrée</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_222><loc_216><loc_242>Écran d'affichage des messages (display)</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_249><loc_305><loc_269>Fonctions des commutateurs poste de conduite latéral gauche</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_276><loc_202><loc_296>Fonctions du manipulateur de gauche</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_304><loc_195><loc_324>Fonctions du manipulateur de droite</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_331><loc_228><loc_351>Commande de chauffage et de climatisation</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_358><loc_119><loc_378>Accès au véhicule</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_385><loc_161><loc_405>Mise EN service du véhicule</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_317><loc_113><loc_353><loc_133>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_113><loc_413><loc_133>2 à 3</text>
+<unordered_list><list_item><loc_317><loc_140><loc_356><loc_160>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_140><loc_413><loc_160>4 à 5</text>
+<unordered_list><list_item><loc_317><loc_168><loc_356><loc_187>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_168><loc_418><loc_187>6 à 11</text>
+<unordered_list><list_item><loc_317><loc_195><loc_351><loc_215>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_195><loc_403><loc_215>12</text>
+<unordered_list><list_item><loc_317><loc_222><loc_351><loc_242>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_222><loc_403><loc_242>13</text>
+<unordered_list><list_item><loc_317><loc_249><loc_356><loc_269>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_249><loc_424><loc_269>14 à 17</text>
+<unordered_list><list_item><loc_317><loc_277><loc_351><loc_297>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_277><loc_403><loc_297>18</text>
+<unordered_list><list_item><loc_317><loc_304><loc_356><loc_324>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_304><loc_424><loc_324>19 à 21</text>
+<unordered_list><list_item><loc_317><loc_331><loc_353><loc_351>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_331><loc_424><loc_351>22 à 25</text>
+<unordered_list><list_item><loc_317><loc_358><loc_348><loc_378>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_358><loc_403><loc_378>26</text>
+<unordered_list><list_item><loc_317><loc_386><loc_353><loc_406>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_386><loc_423><loc_406>27 à 29</text>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_459><loc_472><loc_462><loc_483>2</page_footer>
+<page_break>
+<section_header_level_1><loc_46><loc_18><loc_240><loc_60>Table de matieres</section_header_level_1>
+<unordered_list><list_item><loc_34><loc_113><loc_175><loc_133>Mise HORS service du véhicule</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_140><loc_159><loc_160>Fonctionnement des portes</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_167><loc_261><loc_187>Communication à l'aide des interphones de secours</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_195><loc_304><loc_215>Fonctionnement de l'écran d'affichage des messages (display)</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_222><loc_228><loc_242>Sécurité des portes et des combles-lacunes</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_249><loc_211><loc_269>Frein et ouverture de secours passagers</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_276><loc_240><loc_296>Dérangement d'une porte et/ou comble -lacune</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_304><loc_286><loc_324>Fonctions des commutateurs du poste de conduite arrière</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_331><loc_167><loc_351>Conduite en mode «dégradé»</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_358><loc_211><loc_378>Commande de secours du pantographe</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_385><loc_172><loc_405>Emplacement des disjoncteurs</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_34><loc_413><loc_110><loc_433>Barre d'attelage</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_317><loc_113><loc_348><loc_133>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_113><loc_403><loc_133>30</text>
+<unordered_list><list_item><loc_317><loc_140><loc_356><loc_160>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_140><loc_424><loc_160>31 à 33</text>
+<unordered_list><list_item><loc_317><loc_168><loc_356><loc_187>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_168><loc_403><loc_187>34</text>
+<unordered_list><list_item><loc_317><loc_195><loc_351><loc_215>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_195><loc_424><loc_215>36 à 38</text>
+<unordered_list><list_item><loc_317><loc_222><loc_351><loc_242>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_222><loc_424><loc_242>39 à 40</text>
+<unordered_list><list_item><loc_317><loc_249><loc_356><loc_269>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_249><loc_424><loc_269>41 à 42</text>
+<unordered_list><list_item><loc_317><loc_277><loc_351><loc_297>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_277><loc_424><loc_297>43 à 44</text>
+<unordered_list><list_item><loc_317><loc_304><loc_356><loc_324>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_304><loc_424><loc_324>45 à 46</text>
+<unordered_list><list_item><loc_317><loc_331><loc_353><loc_351>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_331><loc_403><loc_351>47</text>
+<unordered_list><list_item><loc_317><loc_358><loc_348><loc_378>Page</list_item>
+</unordered_list>
+<text><loc_392><loc_358><loc_403><loc_378>48</text>
+<unordered_list><list_item><loc_317><loc_386><loc_353><loc_406>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_386><loc_423><loc_406>49 à 51</text>
+<unordered_list><list_item><loc_317><loc_413><loc_353><loc_433>Pages</list_item>
+</unordered_list>
+<text><loc_392><loc_413><loc_424><loc_433>52 à 54</text>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_459><loc_472><loc_462><loc_483>3</page_footer>
+<page_break>
+<section_header_level_1><loc_44><loc_16><loc_444><loc_69>Caractéristiques techniques du vehicule</section_header_level_1>
+<picture><loc_29><loc_152><loc_473><loc_355></picture>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_459><loc_472><loc_462><loc_483>4</page_footer>
+<page_break>
+<section_header_level_1><loc_44><loc_16><loc_444><loc_69>Caractéristiques techniques du vehicule</section_header_level_1>
+<unordered_list><list_item><loc_34><loc_136><loc_186><loc_163>Année de mise en service</list_item>
+<list_item><loc_53><loc_165><loc_200><loc_189>2004 -2005 -2009 -2010</list_item>
+<list_item><loc_34><loc_196><loc_148><loc_223>Numérotation TPG</list_item>
+<list_item><loc_53><loc_225><loc_167><loc_249>861 à 899 -Série 05</list_item>
+<list_item><loc_34><loc_256><loc_109><loc_283>Dimensions</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_53><loc_285><loc_163><loc_309>Longueur hors tout:</list_item>
+</unordered_list>
+<text><loc_184><loc_285><loc_216><loc_309>42.0m</text>
+<unordered_list><list_item><loc_53><loc_312><loc_136><loc_336>Largeur totale:</list_item>
+</unordered_list>
+<text><loc_190><loc_312><loc_216><loc_336>2.3m</text>
+<unordered_list><list_item><loc_53><loc_338><loc_106><loc_362>Hauteur:</list_item>
+</unordered_list>
+<text><loc_190><loc_338><loc_216><loc_362>3.6m</text>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_236><loc_136><loc_277><loc_163>· Poids</section_header_level_1>
+<unordered_list><list_item><loc_254><loc_165><loc_391><loc_189>Poids du véhicule à vide:</list_item>
+</unordered_list>
+<text><loc_423><loc_165><loc_471><loc_189>50.100kg</text>
+<unordered_list><list_item><loc_254><loc_192><loc_383><loc_216>Poids total du véhicule:</list_item>
+</unordered_list>
+<text><loc_423><loc_192><loc_471><loc_216>78.700kg</text>
+<section_header_level_1><loc_236><loc_223><loc_302><loc_249>· Puissance</section_header_level_1>
+<unordered_list><list_item><loc_254><loc_252><loc_428><loc_276>136 ch par moteur (816 ch total)</list_item>
+<list_item><loc_236><loc_283><loc_282><loc_309>Places</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_53><loc_312><loc_136><loc_336>Largeur totale:</list_item>
+</unordered_list>
+<text><loc_190><loc_312><loc_216><loc_336>2.3m</text>
+<unordered_list><list_item><loc_53><loc_338><loc_106><loc_362>Hauteur:</list_item>
+</unordered_list>
+<text><loc_190><loc_338><loc_216><loc_362>3.6m</text>
+<unordered_list><list_item><loc_254><loc_312><loc_291><loc_336>Total:</list_item>
+</unordered_list>
+<text><loc_386><loc_312><loc_462><loc_336>409 personnes</text>
+<unordered_list><list_item><loc_254><loc_338><loc_306><loc_362>Assises:</list_item>
+</unordered_list>
+<text><loc_392><loc_338><loc_462><loc_362>66 personnes</text>
+<unordered_list><list_item><loc_254><loc_365><loc_304><loc_389>Debout:</list_item>
+</unordered_list>
+<text><loc_386><loc_365><loc_462><loc_389>343 personnes</text>
+<page_footer><loc_459><loc_472><loc_462><loc_483>5</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_46><loc_17><loc_244><loc_63>Poste de conduite</section_header_level_1>
+<picture><loc_48><loc_137><loc_266><loc_429></picture>
+<ordered_list><list_item><loc_311><loc_171><loc_441><loc_216>Commutateurs poste de conduite partie arrière</list_item>
+<list_item><loc_311><loc_260><loc_444><loc_305>Poste de conduite latéral gauche</list_item>
+<list_item><loc_311><loc_349><loc_406><loc_371>Tableau de bord</list_item>
+</ordered_list>
+<page_footer><loc_459><loc_472><loc_462><loc_483>6</page_footer>
+<page_break>
+<section_header_level_1><loc_47><loc_20><loc_445><loc_64>Poste de conduite (partie arriere gauche)</section_header_level_1>
+<picture><loc_44><loc_162><loc_256><loc_401></picture>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<ordered_list><list_item><loc_286><loc_161><loc_416><loc_201>Commutateur rotatif «Manœuvre sans sécurité»</list_item>
+<list_item><loc_286><loc_221><loc_420><loc_261>Commutateur rotatif «Ouverture secours portes»</list_item>
+<list_item><loc_286><loc_281><loc_395><loc_321>Commutateur rotatif «Conduite forcée»</list_item>
+<list_item><loc_286><loc_341><loc_456><loc_381>Commutateur rotatif «Desserrage de secours des freins»</list_item>
+</ordered_list>
+<page_footer><loc_459><loc_472><loc_462><loc_483>7</page_footer>
+<page_break>
+<section_header_level_1><loc_46><loc_17><loc_418><loc_63>Poste ( de c conduite (latéral g gauche)</section_header_level_1>
+<picture><loc_109><loc_142><loc_403><loc_277></picture>
+<ordered_list><list_item><loc_34><loc_303><loc_231><loc_320>Commutateur rotatif  à impulsions Pantographe»</list_item>
+<list_item><loc_34><loc_320><loc_241><loc_338>Commutateur rotatif «Eclairage poste de conduite»</list_item>
+<list_item><loc_34><loc_338><loc_144><loc_356>Commande de chauffage</list_item>
+<list_item><loc_34><loc_356><loc_224><loc_374>Pupitre de commande des aiguilles électriques</list_item>
+<list_item><loc_34><loc_374><loc_120><loc_391>Voltmètre batteries</list_item>
+<list_item><loc_34><loc_392><loc_173><loc_409>Commutateur réglage rétroviseur</list_item>
+<list_item><loc_34><loc_409><loc_170><loc_427>Champignon «Frein de secours»</list_item>
+<list_item><loc_34><loc_427><loc_192><loc_445>Bouton-poussoir «Alarme silencieuse»</list_item>
+</ordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<ordered_list><list_item><loc_258><loc_303><loc_422><loc_320>Bouton-poussoir «Aide au démarrage»</list_item>
+<list_item><loc_253><loc_320><loc_441><loc_338>Commutateur rotatif «Sélecteur de marche»</list_item>
+<list_item><loc_253><loc_338><loc_406><loc_356>Enclenchement poste de conduite</list_item>
+<list_item><loc_253><loc_356><loc_442><loc_374>Commutateur rotatif à impulsions «Batterie»</list_item>
+<list_item><loc_253><loc_374><loc_479><loc_391>Commutateur rotatif à impulsions «Eclairage intérieur»</list_item>
+<list_item><loc_253><loc_392><loc_387><loc_409>Commutateur rotatif «V max»</list_item>
+<list_item><loc_253><loc_409><loc_421><loc_427>Commutateur rotatif «Givre Caténaire»</list_item>
+</ordered_list>
+<page_footer><loc_459><loc_472><loc_462><loc_483>8</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_21><loc_428><loc_60>Poste de conduite (tableau c de bord frontal)</section_header_level_1>
+<picture><loc_103><loc_112><loc_427><loc_299></picture>
+<ordered_list><list_item><loc_118><loc_324><loc_264><loc_339>Ecran d'affichage des messages (display)</list_item>
+<list_item><loc_118><loc_339><loc_274><loc_355>Témoins lumineux - Indicateurs de direction</list_item>
+<list_item><loc_193><loc_355><loc_233><loc_370>Interphone</list_item>
+<list_item><loc_193><loc_370><loc_252><loc_386>Frein de secours</list_item>
+<list_item><loc_193><loc_386><loc_241><loc_401>Homme-mort</list_item>
+<list_item><loc_193><loc_402><loc_247><loc_417>Portes fermées</list_item>
+<list_item><loc_193><loc_417><loc_211><loc_433>SM</list_item>
+<list_item><loc_118><loc_433><loc_301><loc_448>Écran INEO</list_item>
+<list_item><loc_118><loc_448><loc_187><loc_464>Compteur vitesse</list_item>
+<list_item><loc_343><loc_339><loc_390><loc_355>Freins serrés</list_item>
+<list_item><loc_343><loc_355><loc_419><loc_370>Portes ouvertes</list_item>
+<list_item><loc_343><loc_370><loc_363><loc_386>Rag</list_item>
+<list_item><loc_343><loc_386><loc_393><loc_401>Feux de route</list_item>
+<list_item><loc_343><loc_402><loc_403><loc_417>-Demande d'arrêt</list_item>
+</ordered_list>
+<page_footer><loc_459><loc_472><loc_462><loc_483>9</page_footer>
+<page_break>
+<section_header_level_1><loc_47><loc_19><loc_438><loc_59>Poste de conduite (tableau de I bord frontal)</section_header_level_1>
+<picture><loc_63><loc_107><loc_437><loc_272></picture>
+<ordered_list><list_item><loc_41><loc_288><loc_329><loc_305>Bouton-poussoir «Ouverture inverse»</list_item>
+<list_item><loc_41><loc_306><loc_184><loc_323>Bouton-poussoir lumineux «Panne»</list_item>
+<list_item><loc_254><loc_288><loc_400><loc_305>Commutateur rotatif «Clignotants»</list_item>
+<list_item><loc_254><loc_306><loc_461><loc_323>Bouton-poussoir lumineux «Déverrouillage gauche»</list_item>
+<list_item><loc_41><loc_323><loc_262><loc_341>Bouton-poussoir lumineux «Interphone En»</list_item>
+<list_item><loc_254><loc_323><loc_388><loc_341>Bouton-poussoir lumineux «P1»</list_item>
+<list_item><loc_41><loc_341><loc_265><loc_359>Bouton-poussoir lumineux «Interphone Hors»</list_item>
+<list_item><loc_254><loc_341><loc_439><loc_359>Bouton-poussoir lumineux  «Poussette/PMR»</list_item>
+<list_item><loc_41><loc_359><loc_295><loc_377>Bouton-poussoir «Annonce intérieure»</list_item>
+<list_item><loc_254><loc_359><loc_411><loc_377>Bouton-poussoir lumineux  «P toutes»</list_item>
+<list_item><loc_41><loc_377><loc_265><loc_394>Bouton-poussoir «Annonce extérieure»</list_item>
+<list_item><loc_254><loc_377><loc_424><loc_394>Bouton-poussoir lumineux  «Verrouillage»</list_item>
+<list_item><loc_41><loc_395><loc_278><loc_412>Bouton-poussoir «Annonce malvoyants»</list_item>
+<list_item><loc_254><loc_395><loc_453><loc_412>Bouton-poussoir lumineux  «Déverrouillage droit»</list_item>
+<list_item><loc_41><loc_412><loc_268><loc_430>Bouton-poussoir lumineux «Parler RCT» (non actif)</list_item>
+<list_item><loc_41><loc_430><loc_163><loc_448>Commutateur rotatif «phares»</list_item>
+</ordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<ordered_list><list_item><loc_254><loc_412><loc_453><loc_430>Bouton-poussoir lumineux  «Annulation Sécurité»</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>10</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_19><loc_438><loc_59>Poste de conduite (tableau de I bord frontal)</section_header_level_1>
+<picture><loc_61><loc_114><loc_217><loc_453></picture>
+<ordered_list><list_item><loc_255><loc_115><loc_413><loc_132>Bouton-poussoir «Sélection cameras»</list_item>
+<list_item><loc_255><loc_150><loc_449><loc_168>Bouton-poussoir «Déployer rétroviseur gauche»</list_item>
+<list_item><loc_255><loc_186><loc_439><loc_203>Bouton-poussoir lumineux essuie-glace «En»</list_item>
+<list_item><loc_255><loc_221><loc_447><loc_239>Bouton-poussoir lumineux essuie-glace «Hors»</list_item>
+<list_item><loc_255><loc_257><loc_421><loc_274>Bouton-poussoir lumineux «Lave-glace»</list_item>
+<list_item><loc_255><loc_292><loc_437><loc_310>Bouton-poussoir «Rabattre rétroviseur droit»</list_item>
+<list_item><loc_255><loc_328><loc_404><loc_346>Bouton-poussoir «Marquage vidéo»</list_item>
+<list_item><loc_255><loc_363><loc_434><loc_381>Bouton-poussoir «Activation système IFAS»</list_item>
+<list_item><loc_255><loc_399><loc_302><loc_417>Réserve</list_item>
+<list_item><loc_255><loc_435><loc_406><loc_452>Bouton-poussoir «Feux clignotants»</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>11</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_14><loc_436><loc_66>Manipulateurs gauche et droit avec commande 《hommeintégrée mort></section_header_level_1>
+<section_header_level_1><loc_97><loc_91><loc_175><loc_108>Manipulateur gauche</section_header_level_1>
+<picture><loc_74><loc_111><loc_197><loc_275></picture>
+<caption><loc_100><loc_283><loc_172><loc_300>Manipulateur droite</caption>
+<picture><loc_74><loc_301><loc_197><loc_467></picture>
+<ordered_list><list_item><loc_224><loc_158><loc_366><loc_176>Bouton-poussoir «homme-mort»</list_item>
+<list_item><loc_224><loc_194><loc_329><loc_211>Gâchette «homme-mort»</list_item>
+<list_item><loc_224><loc_229><loc_397><loc_247>Bouton-poussoir (vert) «cloche avertisseur»</list_item>
+<list_item><loc_224><loc_265><loc_365><loc_282>Bouton-poussoir (blanc) «sablage»</list_item>
+<list_item><loc_224><loc_300><loc_438><loc_318>Bouton-poussoir (bleu) «ouverture rétroviseur gauche»</list_item>
+<list_item><loc_224><loc_336><loc_329><loc_353>Gâchette «homme-mort»</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>12</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<section_header_level_1><loc_44><loc_9><loc_463><loc_71>Ecran d'affichage d (display) des messages</section_header_level_1>
+<picture><loc_59><loc_132><loc_257><loc_349></picture>
+<text><loc_67><loc_369><loc_249><loc_384>Lorsque le display est éteint, il est en situation normale</text>
+<ordered_list><list_item><loc_278><loc_131><loc_434><loc_149>Quittance de messages de défaillance</list_item>
+<list_item><loc_278><loc_167><loc_424><loc_184>Affichage de la tension 600V et 24V</list_item>
+<list_item><loc_278><loc_202><loc_322><loc_220>Réserve</list_item>
+<list_item><loc_278><loc_238><loc_363><loc_255>Analyse du freinage</list_item>
+<list_item><loc_278><loc_273><loc_421><loc_291>Mouvement du curseur vers le haut</list_item>
+<list_item><loc_278><loc_309><loc_418><loc_326>Mouvement du curseur vers le bas</list_item>
+<list_item><loc_278><loc_344><loc_412><loc_362>Réglage de l'intensité lumineuse</list_item>
+<list_item><loc_278><loc_380><loc_367><loc_398>Réglage du contraste</list_item>
+</ordered_list>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>13</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_49><loc_14><loc_461><loc_59>Fonctions des commutateurs sur le poste de conduite latéral gauche</section_header_level_1>
+<picture><loc_112><loc_191><loc_400><loc_352></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>14</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_49><loc_14><loc_461><loc_59>Fonctions des commutateurs sur le poste de conduite latéral gauche</section_header_level_1>
+<ordered_list><list_item><loc_63><loc_102><loc_386><loc_120>Commutateur en position «haut» ou «bas» pour monter ou abaisser le pantographe</list_item>
+<list_item><loc_63><loc_129><loc_429><loc_163>Commutateur en position « 0 » l'éclairage du poste de conduite et l'éclairage de l'horaire guide sont éteints</list_item>
+</ordered_list>
+<text><loc_84><loc_163><loc_328><loc_199>En position « En » l'éclairage du poste de conduite est enclenché En position à gauche, l'éclairage de l'horaire guide est enclenché</text>
+<ordered_list><list_item><loc_63><loc_209><loc_234><loc_227>Tableau chauffage ventilation climatisation</list_item>
+<list_item><loc_63><loc_243><loc_385><loc_279>Pupitre de commande des aiguilles électriques, permet de sélectionner le mode de fonctionnement, la direction de l'aiguille ou le code de parcours</list_item>
+</ordered_list>
+<text><loc_77><loc_279><loc_161><loc_296>Mode manuel :</text>
+<text><loc_171><loc_279><loc_178><loc_296>:</text>
+<text><loc_178><loc_279><loc_288><loc_296>Emission d'un ordre tout droit</text>
+<text><loc_171><loc_296><loc_356><loc_314>: Emission d'un ordre dévié à gauche ou à droite</text>
+<picture><loc_143><loc_280><loc_159><loc_317></picture>
+<text><loc_78><loc_332><loc_263><loc_350>Annuler : Annulation d'un ordre tout droit ou dévié</text>
+<ordered_list><list_item><loc_65><loc_360><loc_291><loc_378>Voltmètre : Montre la tension effective des batteries (24V)</list_item>
+<list_item><loc_65><loc_385><loc_326><loc_403>Commutateur à 4 positions pour régler rétroviseur droit ou gauche</list_item>
+<list_item><loc_65><loc_413><loc_434><loc_449>Frein de secours, l'enfoncement de ce bouton coupe la traction, serre les freins mécaniques et enclenche le frein de rail. Pour le retour en position normale, tourner le bouton.</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>15</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_49><loc_14><loc_461><loc_59>Fonctions des commutateurs sur le poste de conduite latéral gauche</section_header_level_1>
+<picture><loc_112><loc_191><loc_400><loc_352></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>16</page_footer>
+<page_break>
+<section_header_level_1><loc_49><loc_14><loc_461><loc_59>Fonctions des commutateurs sur le poste de conduite latéral gauche</section_header_level_1>
+<ordered_list><list_item><loc_50><loc_103><loc_400><loc_138>Alarme silencieuse, utilisable notamment lors d'une agression physique sur le collaborateur (selon les règles en vigueur)</list_item>
+<list_item><loc_50><loc_147><loc_407><loc_201>Bouton-poussoir aide au démarrage, une pression sur ce bouton permet un patinage élevé des roues motrices pendant l'accélération jusqu'a une vitesse de 25 km/h. Cette fonction est annulée  automatiquement quand ce seuil de vitesse est dépassé</list_item>
+<list_item><loc_45><loc_217><loc_381><loc_253>Commutateur permettant de présélectionner les modes suivants : Normal et Dégradé (sans VTCU)</list_item>
+<list_item><loc_45><loc_263><loc_300><loc_281>Clé amovible permettant l'enclenchement du poste de conduite</list_item>
+<list_item><loc_45><loc_297><loc_293><loc_315>Commutateur pour la mise en alimentation du véhicule « 24V»</list_item>
+<list_item><loc_45><loc_325><loc_401><loc_343>Commutateur permettant la gestion manuelle de l'éclairage intérieur du véhicule  (En -Hors)</list_item>
+<list_item><loc_45><loc_352><loc_386><loc_387>Commutateur permettant de présélectionner les vitesses suivantes: Lavage (3km/h) et Chantier (5km/h)</list_item>
+<list_item><loc_45><loc_396><loc_459><loc_430>Commutateur permettant la gestion électronique des convertisseurs de traction lorsque le givre se dépose sur la caténaire</list_item>
+</ordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>17</page_footer>
+<page_break>
+<section_header_level_1><loc_44><loc_13><loc_456><loc_71>Fonctions du manipulateur de? gauche</section_header_level_1>
+<picture><loc_61><loc_178><loc_185><loc_364></picture>
+<unordered_list><list_item><loc_201><loc_136><loc_461><loc_189>Lorsque le manipulateur est poussé de la position zéro vers l'avant, le véhicule est accéléré. Le degré d'actionnement du manipulateur correspond à une force de traction déterminée</list_item>
+<list_item><loc_201><loc_207><loc_454><loc_243>Lorsque le manipulateur est en position zéro, le véhicule roule sur l'erre</list_item>
+<list_item><loc_201><loc_261><loc_464><loc_314>Lorsque le manipulateur est tiré au-delà la position zéro, le  véhicule est freiné. Le degré d'actionnement du manipulateur correspond à une force de freinage déterminée</list_item>
+<list_item><loc_201><loc_332><loc_459><loc_385>Lorsque le manipulateur est tiré en butée et au-delà du cran, le freinage d'urgence est enclenché (frein électrique, freins à disques, frein sur rails, sablières, cloche, dispositif anti-patinage)</list_item>
+<list_item><loc_201><loc_403><loc_459><loc_438>Le freinage d'urgence est annulé, lorsque le manipulateur est retiré manuellement de la position finale crantée (sans ressort)</list_item>
+</unordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>18</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_16><loc_439><loc_69>Fonctions c du manipulateur de c droite</section_header_level_1>
+<picture><loc_55><loc_158><loc_214><loc_371></picture>
+<section_header_level_1><loc_256><loc_143><loc_352><loc_161>Bouton-poussoir (blanc) :</section_header_level_1>
+<text><loc_256><loc_165><loc_389><loc_182>Commande manuelle des sablières</text>
+<text><loc_256><loc_203><loc_417><loc_238>En cas de perte d'adhérence , les sablières s'enclenchent automatiquement</text>
+<text><loc_256><loc_256><loc_429><loc_309>Le cas échéant le conducteur peut enclencher manuellement les sablières en appuyant sur le bouton blanc</text>
+<text><loc_256><loc_327><loc_428><loc_398>Le niveau de sable est surveillé, un message est affiché sur le display « sable bas » et des LED rouges s'allument au niveau des bouches de remplissage (extérieur du véhicule)</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>19</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_16><loc_442><loc_70>Fonctions c du manipulateur de droite</section_header_level_1>
+<picture><loc_55><loc_159><loc_214><loc_371></picture>
+<section_header_level_1><loc_262><loc_146><loc_353><loc_163>Bouton-poussoir (bleu) :</section_header_level_1>
+<text><loc_262><loc_167><loc_392><loc_185>«Ouverture rétroviseur de gauche»</text>
+<text><loc_262><loc_205><loc_433><loc_258>En cas de besoin, il est possible de déployer le rétroviseur de gauche en maintenant une pression  sur le bouton bleu</text>
+<text><loc_262><loc_276><loc_432><loc_312>Le rétroviseur reprendra sa position initiale en relâchant  le bouton</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>20</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_16><loc_442><loc_70>Fonctions c du manipulateur de droite</section_header_level_1>
+<picture><loc_55><loc_159><loc_213><loc_371></picture>
+<section_header_level_1><loc_232><loc_153><loc_392><loc_171>Lorsque le manipulateur de droite est tiré :</section_header_level_1>
+<ordered_list><list_item><loc_232><loc_189><loc_445><loc_207>Enclenchement du frein sur rails (sabots magnétiques)</list_item>
+<list_item><loc_232><loc_225><loc_442><loc_278>En butée, le freinage d'urgence est enclenché (frein électrique, freins à disques, frein sur rails, sablières, cloche, dispositif anti-patinage)</list_item>
+</ordered_list>
+<text><loc_234><loc_317><loc_444><loc_377>Les deux positions sont annulées automatiquement dès qu'on relâche le manipulateur. Celui-ci se remet en position initiale (avec ressort)</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>21</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_21><loc_458><loc_61>Commandes de chauffage et de climatisation</section_header_level_1>
+<picture><loc_110><loc_106><loc_389><loc_292></picture>
+<section_header_level_1><loc_103><loc_324><loc_363><loc_341>Utilisation du système de chauffage de ventilation et de climatisation</section_header_level_1>
+<text><loc_103><loc_359><loc_396><loc_430>La climatisation, l'aérothérmie ainsi que le chauffage des vitres s'effectuent au moyen de l'appareil de commande sur le pupitre. L'appareil de commande se compose d'un clavier à membrane et d'une affiche alphanumérique en deux lignes</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>22</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_21><loc_458><loc_61>Commandes de chauffage et de climatisation</section_header_level_1>
+<picture><loc_94><loc_125><loc_405><loc_418></picture>
+<otsl><loc_94><loc_125><loc_405><loc_418><fcel>Unité / Fonction d'unité<ched>Réglage<lcel><ched>Mode de réglage<lcel><lcel><lcel><lcel><nl><fcel>Chauffage à circulation d'air de la cabine de conduite<ecel><fcel>En/hors<fcel>Température- Quantité d'air<ecel><ecel><ecel><ecel><nl><fcel>Unité de climatisation de la cabine de conduite /seulement au mode de chauffage et de ventilation<ecel><fcel>En/hors<fcel>Température- Quantité d'air<ecel><ecel><ecel><ecel><nl><fcel>Unité de climatisation de la cabine de conduite / mode de refroidissement supplémentaire<ecel><fcel>En/hors<fcel>Température- Quantité d'air<ecel><ecel><ecel><ecel><nl><fcel>Chauffage du pare-brise de la cabine de conduite<ecel><fcel>En/hors<ecel><ecel><ecel><ecel><ecel><nl><fcel>Air frais dans la cabine de conduite<ecel><fcel>En/hors<ecel><ecel><ecel><ecel><ecel><nl><fcel>Chauffage / ventilation au compartiment des voyageurs<ecel><fcel>En/hors<fcel>Réglage automatique<ecel><ecel><ecel><ecel><nl></otsl>
+<page_footer><loc_455><loc_472><loc_462><loc_483>23</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_21><loc_458><loc_61>Commandes de chauffage et de climatisation</section_header_level_1>
+<section_header_level_1><loc_67><loc_108><loc_111><loc_130>Touches:</section_header_level_1>
+<text><loc_67><loc_156><loc_434><loc_191>Les touches destinées à sélectionner une unité ou une fonction sont pourvues d'une LED de deux couleurs en haut à gauche</text>
+<text><loc_67><loc_191><loc_423><loc_227>Les touches destinées à régler la quantité d'air et la température ne sont pas équipées de LED. Les LED désignent l'état actuel des touches:</text>
+<otsl><loc_124><loc_262><loc_375><loc_416><ched>LED éteinte<ched>Unité/fonction de l'unité hors service<nl><fcel>Lumière verte permanente<fcel>Unité/fonction de l'unité en service<nl><fcel>Lumière verte clignotante<fcel>La température et la qualité d'air de cette unité / fonction peuvent être réglées (mode de réglage)<nl><fcel>Lumière rouge clignotante<fcel>Défaillance, par l'actionnement de la touche clignotante, la défaillance est quittancée.<nl><fcel>Lumière rouge permanente<fcel>Après message de défaillance quittancé.<nl></otsl>
+<page_footer><loc_455><loc_472><loc_462><loc_483>24</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_21><loc_458><loc_61>Commandes de chauffage et de climatisation</section_header_level_1>
+<text><loc_94><loc_155><loc_393><loc_190>La longueur et l'ordre d'actionnement d'une touche déterminent la mise en/hors service et le saut au mode de réglage:</text>
+<otsl><loc_90><loc_209><loc_403><loc_334><fcel>Actionnement court d'une touche<fcel>Mise en service<fcel>La LED verte donne une lumière permanente<nl><fcel>Actionnement d'une touche pendant plus de 2 secondes<fcel>Mise en service<fcel>La LED verte s'éteint<nl><fcel>Actionnement court de la touche qui donne de la lumière verte (mise en service)<fcel>La température et la quantité d'air peuvent être réglées (mode de réglage)<fcel>La LED verte clignote<nl></otsl>
+<page_footer><loc_455><loc_472><loc_462><loc_483>25</page_footer>
+<page_break>
+<section_header_level_1><loc_46><loc_19><loc_243><loc_60>Acces au véhicule</section_header_level_1>
+<section_header_level_1><loc_43><loc_124><loc_337><loc_142>Ouverture de la porte d'accès du tram et/ou enclenchement de la tension 24V</section_header_level_1>
+<text><loc_43><loc_160><loc_334><loc_178>Cette même clé permet l'ouverture de la porte d'accès à la cabine conducteur</text>
+<text><loc_43><loc_196><loc_163><loc_213>Pour refermer, appuyer sur «P1»</text>
+<text><loc_43><loc_231><loc_324><loc_267>Les postes de conduite sont équipés de porte avec une fenêtre ainsi qu'un hygiaphone intégré permettant de communiquer avec les voyageurs</text>
+<section_header_level_1><loc_43><loc_338><loc_125><loc_356>Ouverture de secours</section_header_level_1>
+<text><loc_43><loc_356><loc_330><loc_391>Une ouverture de secours se trouve à l'extérieur du véhicule  au niveau de la première porte du sens de marche (porte n°1 et  porte n°8)</text>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<picture><loc_358><loc_103><loc_426><loc_263></picture>
+<picture><loc_358><loc_297><loc_426><loc_451></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>26</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_19><loc_348><loc_60>Mise EN S du véhicule service c</section_header_level_1>
+<otsl><loc_92><loc_110><loc_408><loc_244><fcel>Poste de conduite :<ched>A<ched>B<nl><rhed>Support du livret de signalement d'anomalie<fcel>Oui<fcel>Non<nl><rhed>Compteur kilométrique<fcel>Oui<fcel>Non<nl><rhed>RAG + RAG de réserve (armoire technique)<fcel>Oui<fcel>Non<nl><rhed>Pharmacie<fcel>Oui<fcel>Non<nl><rhed>Clé de réserve<fcel>Oui<fcel>Non<nl></otsl>
+<section_header_level_1><loc_101><loc_263><loc_162><loc_278>Armoire technique</section_header_level_1>
+<text><loc_101><loc_278><loc_300><loc_294>L'armoire technique se trouve derrière le siège du conducteur</text>
+<picture><loc_194><loc_300><loc_310><loc_414></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>27</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_19><loc_348><loc_60>Mise EN S du véhicule service</section_header_level_1>
+<section_header_level_1><loc_63><loc_92><loc_96><loc_108>Extincteur</section_header_level_1>
+<text><loc_63><loc_108><loc_165><loc_123>Derrière le siège du conducteur</text>
+<section_header_level_1><loc_63><loc_139><loc_137><loc_154>Pince et cale à aiguille</section_header_level_1>
+<text><loc_63><loc_154><loc_293><loc_170>La pince et la cale à aiguille se trouvent derrière le siège du conducteur</text>
+<section_header_level_1><loc_63><loc_186><loc_105><loc_201>Rampe PMR</section_header_level_1>
+<text><loc_63><loc_201><loc_248><loc_217>La rampe PMR se trouve derrière le siège accompagnant</text>
+<section_header_level_1><loc_63><loc_232><loc_103><loc_248>Clé spéciale</section_header_level_1>
+<text><loc_63><loc_248><loc_246><loc_263>La clé spéciale se trouve derrière le siège du conducteur</text>
+<section_header_level_1><loc_63><loc_279><loc_156><loc_294>Porte -manteau et poubelle</section_header_level_1>
+<text><loc_63><loc_294><loc_308><loc_310>Le porte-manteau et la poubelle se trouvent derrière le siège du conducteur</text>
+<section_header_level_1><loc_63><loc_326><loc_121><loc_341>Stores pare-soleil</section_header_level_1>
+<text><loc_63><loc_341><loc_376><loc_357>Les pares brises et les vitres latérales sont pourvus de stores pare-soleil réglables manuellement</text>
+<section_header_level_1><loc_63><loc_372><loc_101><loc_388>Rangement</section_header_level_1>
+<text><loc_63><loc_388><loc_308><loc_403>Un espace de rangement est disponible sur le côté droit du tableau de bord</text>
+<section_header_level_1><loc_63><loc_419><loc_98><loc_434>Prise 230V</section_header_level_1>
+<text><loc_63><loc_435><loc_413><loc_450>Une prise 230V est disponible sur le côté droit du poste de conduite. Cette prise est munie d'un interrupteur</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>28</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_19><loc_348><loc_60>Mise EN S du véhicule service c</section_header_level_1>
+<picture><loc_160><loc_116><loc_339><loc_319></picture>
+<ordered_list><list_item><loc_99><loc_343><loc_373><loc_360>Commutateur batterie           sur position «EN» (maintenir 2 secondes) 12</list_item>
+<list_item><loc_99><loc_378><loc_395><loc_396>Enclenchement du poste de conduite           tourner la clé sur position «EN» 11</list_item>
+<list_item><loc_99><loc_414><loc_264><loc_432>Sélecteur de marche          sur «Normal» 10</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>29</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_50><loc_23><loc_377><loc_56>Mise eHORS service du vehicule</section_header_level_1>
+<picture><loc_157><loc_104><loc_338><loc_306></picture>
+<ordered_list><list_item><loc_99><loc_330><loc_276><loc_348>Sélecteur de marche          sur position «0» 10</list_item>
+<list_item><loc_99><loc_366><loc_387><loc_383>Déclenchement du poste de conduite         tourner la clé sur position «0» 11</list_item>
+<list_item><loc_99><loc_401><loc_377><loc_437>Interrupteur batterie           sur position «Hors» (maintenir 2 secondes). Un message apparait sur le display «désarmement  véhicule  activé» 12</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>30</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_46><loc_17><loc_345><loc_63>Fonctionnement des portes</section_header_level_1>
+<text><loc_65><loc_117><loc_235><loc_194>Les portes sont munies d'un comble -lacune, sauf la porte 1 et 8 Le comblelacune se déploie avant l'ouverture de la porte et se replie après sa fermeture. Son fonctionnement est automatique</text>
+<picture><loc_56><loc_231><loc_67><loc_250></picture>
+<unordered_list><list_item><loc_60><loc_230><loc_258><loc_261>«Dispositif anti coincement» Il empêche la fermeture des portes tant que l'espace n'a 1</list_item>
+</unordered_list>
+<text><loc_73><loc_261><loc_117><loc_276>pas été libéré</text>
+<unordered_list><list_item><loc_60><loc_292><loc_133><loc_307>«Bords sensibles» 2</list_item>
+<list_item><loc_60><loc_339><loc_132><loc_355>«Comble-lacune» 3</list_item>
+<list_item><loc_73><loc_354><loc_250><loc_370>Il empêche la fermeture de la porte, du moment qu'un</list_item>
+</unordered_list>
+<picture><loc_55><loc_290><loc_67><loc_309></picture>
+<picture><loc_55><loc_339><loc_67><loc_358></picture>
+<text><loc_73><loc_370><loc_226><loc_416>poids se trouve sur celui-ci En cas d'obstacle à la sortie ou à la rentrée du comble-lacune sa course s'interrompt</text>
+<picture><loc_331><loc_113><loc_460><loc_430></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>31</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_46><loc_17><loc_345><loc_63>Fonctionnement des portes</section_header_level_1>
+<picture><loc_38><loc_132><loc_461><loc_211></picture>
+<unordered_list><list_item><loc_35><loc_238><loc_434><loc_273>Lors du déverrouillage, seules les portes faisant l'objet d'une demande s'ouvriront. Après quelques secondes de temporisation celles-ci se refermeront automatiquement 11 16</list_item>
+<list_item><loc_51><loc_291><loc_441><loc_327>Lors du verrouillage, les portes fermées se verrouillent, un signal sonore retentit sur les portes encore ouvertes 15</list_item>
+<list_item><loc_51><loc_345><loc_340><loc_362>Pour l'ouverture et la fermeture manuelle de la porte 1ou 8 appuyer sur P1 12</list_item>
+<list_item><loc_51><loc_380><loc_409><loc_398>En appuyant sur la commande P toutes, on commande la préouverture de toutes les portes 14</list_item>
+</unordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>32</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_46><loc_17><loc_345><loc_63>Fonctionnement des portes</section_header_level_1>
+<picture><loc_39><loc_133><loc_460><loc_215></picture>
+<unordered_list><list_item><loc_60><loc_236><loc_350><loc_253>Pour l'annulation de la demande poussette ou PMR, appuyer sur le bouton 13</list_item>
+<list_item><loc_60><loc_289><loc_449><loc_324>Pour l'annulation du dispositif anti -coincement (suppression des faisceaux lumineux, bords sensibles actifs), appuyer sur le bouton «Annulation sécurité» 17</list_item>
+<list_item><loc_62><loc_360><loc_394><loc_414>Pour permettre l'ouverture inversée des portes, appuyer simultanément sur les ou           boutons «Ouverture inverse et déverrouillage» + 1 11 1 16</list_item>
+</unordered_list>
+<picture><loc_57><loc_359><loc_96><loc_417></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>33</page_footer>
+<page_break>
+<section_header_level_1><loc_48><loc_24><loc_438><loc_54>Communication a I'aide des interphones de secours</section_header_level_1>
+<text><loc_40><loc_99><loc_338><loc_152>Les passagers peuvent communiquer avec le conducteur moyennant les interphones de secours. Les interphones de secours peuvent être activés par le bouton d'appel ou par l'actionnement de la poignée du frein de secours</text>
+<section_header_level_1><loc_40><loc_178><loc_186><loc_195>Parler en actionnant le bouton d'appel:</section_header_level_1>
+<unordered_list><list_item><loc_40><loc_213><loc_271><loc_249>Si le bouton d'appel est actionné, le conducteur reçoit une demande d'appel (tonalité) 1</list_item>
+<list_item><loc_40><loc_267><loc_299><loc_302>Le voyant lumineux 'Interphone' au poste de conduite s'allume et l'écran affiche un message</list_item>
+<list_item><loc_40><loc_302><loc_282><loc_338>Le conducteur appuie sur le bouton 'EN'. Sur l'interphone, le passager voit le voyant lumineux rouge 'attendez s.v.p.'</list_item>
+<list_item><loc_40><loc_355><loc_293><loc_409>Si le conducteur relâche le bouton 'EN', le passager peut parler. Sur l'interphone, le passager voit un autre voyant lumineux vert 'parlez s.v.p.'</list_item>
+<list_item><loc_40><loc_409><loc_299><loc_444>Le conducteur peut terminer la communication en appuyant sur le bouton 'HORS'</list_item>
+</unordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<picture><loc_321><loc_176><loc_365><loc_405></picture>
+<picture><loc_379><loc_253><loc_453><loc_328></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>34</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_17><loc_346><loc_68>Procédures de degagement</section_header_level_1>
+<picture><loc_111><loc_86><loc_389><loc_457></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>35</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_11><loc_412><loc_66>Fonctionnement de I'écran d'affichage des messages (display)</section_header_level_1>
+<text><loc_47><loc_168><loc_262><loc_204>En mode normal de service, la fenêtre d'aperçu est vide. L'affichage des messages d'état dépend des évènements</text>
+<text><loc_47><loc_222><loc_298><loc_239>Si une panne se produit, un message est affiché en haut sur l'écran</text>
+<text><loc_47><loc_257><loc_292><loc_310>En même temps, un avertisseur sonore se fait entendre Dans la partie inférieure, le niveau de panne et la marche à suivre sont affichés</text>
+<text><loc_47><loc_331><loc_77><loc_348>(p.ex.</text>
+<picture><loc_76><loc_324><loc_87><loc_356></picture>
+<text><loc_93><loc_331><loc_279><loc_348>« Dépôt sans passagers vitesse limite  30 km/h»)</text>
+<picture><loc_314><loc_170><loc_478><loc_330></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>36</page_footer>
+<page_break>
+<section_header_level_1><loc_48><loc_11><loc_412><loc_66>Fonctionnement de I'écran d'affichage des messages (display)</section_header_level_1>
+<text><loc_35><loc_151><loc_297><loc_186>S'il y a plusieurs pannes. Celles-ci sont affichées l'une au-dessous de l'autre dans la partie supérieure</text>
+<text><loc_35><loc_204><loc_303><loc_240>Avec les touches de curseur et       les différents messages peuvent être sélectionnés. 6 5</text>
+<text><loc_35><loc_240><loc_307><loc_275>Le niveau d'importance et la marche à suivre sont affichés dans la partie inférieure</text>
+<text><loc_35><loc_293><loc_306><loc_311>La priorité du message de panne affiché dépend du niveau d'importance</text>
+<text><loc_35><loc_329><loc_307><loc_382>Parmi tous les messages de pannes, le message ayant la priorité la plus élevée est affiché le premier, « A » étant le niveau le plus élevé et « D » le moins élevé</text>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<picture><loc_314><loc_170><loc_478><loc_330></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>37</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_11><loc_412><loc_66>Fonctionnement de I'écran d'affichage des messages (display)</section_header_level_1>
+<section_header_level_1><loc_53><loc_125><loc_199><loc_143>On distingue quatre niveaux de panne:</section_header_level_1>
+<checkbox_selected><loc_50><loc_161><loc_398><loc_196>Le véhicule n'est plus apte à l'exploitation. Le véhicule doit être remorqué ou poussé au centre de maintenance par le service compétent A</checkbox_selected>
+<unordered_list><list_item><loc_50><loc_213><loc_394><loc_232>Le véhicule peut rouler « sans voyageurs » à la vitesse maximale autorisée de 30 km/h. B</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_50><loc_250><loc_407><loc_285>Le véhicule est apte à l'exploitation, il doit être remplacé dès que possible et peut rouler à une vitesse maximale autorisée de 50 km/h. C</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_50><loc_303><loc_397><loc_338>Le véhicule est apte à l'exploitation. La remise en état doit être effectuée à la rentrée au centre de maintenance D</list_item>
+</unordered_list>
+<unordered_list><list_item><loc_52><loc_356><loc_344><loc_374>Les messages de panne doivent être lus et quittancés par le conducteur 5</list_item>
+</unordered_list>
+<text><loc_395><loc_454><loc_398><loc_464>5</text>
+<text><loc_396><loc_352><loc_401><loc_362>F1</text>
+<text><loc_396><loc_363><loc_402><loc_380>2E</text>
+<text><loc_397><loc_376><loc_402><loc_385>F3</text>
+<text><loc_398><loc_390><loc_402><loc_396>F4</text>
+<picture><loc_376><loc_344><loc_420><loc_467></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>38</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_46><loc_20><loc_467><loc_61>Sécurité c des portes et des comble-lacune</section_header_level_1>
+<text><loc_50><loc_124><loc_430><loc_160>En règle générale, les portes ne peuvent être ouvertes que si le véhicule est arrêté et que si le conducteur déverrouille les portes (boutonpoussoir 'Déverrouillage droit' ou 'Déverrouillage gauche')</text>
+<text><loc_50><loc_178><loc_281><loc_195>Le dispositif anti-coincement et les bords sensibles sont actifs</text>
+<picture><loc_104><loc_266><loc_121><loc_298></picture>
+<picture><loc_100><loc_324><loc_125><loc_360></picture>
+<text><loc_131><loc_266><loc_388><loc_293>Même si la batterie n'est pas enclenchée, les portes 1(cabine A) et 1(cabine B) peuvent être ouvertes et fermées pour que le conducteur puisse entrer et sortir</text>
+<text><loc_131><loc_318><loc_398><loc_367>Lorsque les portes situées sur le côté inverse doivent être ouvertes, le conducteur doit maintenir enfoncé le boutonpoussoir 'Ouverture inverse' et appuyer simultanément sur le bouton-poussoir  « Déverrouillage droit »  ou « Déverrouillage gauche »</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>39</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_46><loc_20><loc_467><loc_61>Sécurité c des portes et des comble-lacune</section_header_level_1>
+<picture><loc_62><loc_121><loc_174><loc_438></picture>
+<text><loc_184><loc_169><loc_187><loc_179>1</text>
+<section_header_level_1><loc_198><loc_167><loc_273><loc_182>Faisceaux lumineux :</section_header_level_1>
+<text><loc_198><loc_185><loc_401><loc_217>Dispositif anti-coincement des portes (même rôle que les bords sensibles)</text>
+<text><loc_198><loc_220><loc_429><loc_253>En cas de dysfonctionnement, le conducteur doit aller à la porte correspondante et au besoin condamner celle-ci</text>
+<text><loc_198><loc_309><loc_448><loc_324>Un poids sur le comble-lacune empêche la fermeture de la porte et la</text>
+<unordered_list><list_item><loc_184><loc_292><loc_289><loc_342>Comble-lacune : rentrée du comble-lacune 3</list_item>
+</unordered_list>
+<text><loc_198><loc_363><loc_449><loc_395>En cas d'obstacle à la sortie ou à la rentrée du comble-lacune celui-ci s'arrête</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>40</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_17><loc_342><loc_67>Frein de passagers secours</section_header_level_1>
+<text><loc_55><loc_181><loc_286><loc_199>La poignée du frein de secours est actionnée par un passager</text>
+<text><loc_55><loc_217><loc_265><loc_306>Le voyant lumineux rouge ' Frein secours ' s'allume et le numéro de la porte concernée s'affiche sur le display. L'interphone est automatiquement activé, le passager a immédiatement la possibilité de parler sans que le conducteur n'active l'interphone</text>
+<picture><loc_54><loc_322><loc_78><loc_358></picture>
+<text><loc_83><loc_324><loc_263><loc_359>Réarmer la poignée du frein de secours dans sa position initiale, à l'aide de la clé carré</text>
+<picture><loc_332><loc_112><loc_446><loc_430></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>41</page_footer>
+<page_break>
+<picture><loc_29><loc_118><loc_40><loc_137></picture>
+<section_header_level_1><loc_47><loc_18><loc_383><loc_67>Ouverture c de: secours passgers</section_header_level_1>
+<section_header_level_1><loc_43><loc_120><loc_131><loc_137>Si le véhicule est arrêté</section_header_level_1>
+<unordered_list><list_item><loc_41><loc_143><loc_336><loc_178>Tourner le dispositif d'ouverture de secours dans le sens des aiguilles d'une montre</list_item>
+<list_item><loc_41><loc_178><loc_328><loc_196>Le frein à effet de ressort est desserré, la porte peut être ouverte à la main</list_item>
+<list_item><loc_41><loc_196><loc_351><loc_231>L'information que la porte en question est ouverte en secours est affichée sur le display</list_item>
+<list_item><loc_41><loc_232><loc_158><loc_249>Traction du véhicule annulée</list_item>
+</unordered_list>
+<section_header_level_1><loc_41><loc_249><loc_114><loc_267>Si le véhicule roule</section_header_level_1>
+<unordered_list><list_item><loc_41><loc_267><loc_278><loc_303>Tourner le dispositif d'ouverture de secours dans le sens des aiguilles d'une montre</list_item>
+<list_item><loc_41><loc_303><loc_268><loc_338>Le frein à effet de ressort est desserré, mais le moteur de l'entraînement de porte est activé au sens de fermeture</list_item>
+<list_item><loc_41><loc_338><loc_236><loc_356>Ainsi l'ouverture manuelle est rendue plus difficile</list_item>
+</unordered_list>
+<section_header_level_1><loc_41><loc_362><loc_300><loc_379>Sur le display, l'ouverture de secours de la porte concernée s'affiche</section_header_level_1>
+<unordered_list><list_item><loc_41><loc_380><loc_286><loc_415>La traction est coupée, le conducteur doit arrêter le véhicule en toute sécurité</list_item>
+</unordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_380><loc_142><loc_460><loc_159>Ouverture de secours</section_header_level_1>
+<picture><loc_382><loc_165><loc_458><loc_378><caption><loc_387><loc_385><loc_453><loc_402>Carré d'isolement</caption></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>42</page_footer>
+<page_break>
+<section_header_level_1><loc_48><loc_24><loc_459><loc_56>Dérangement d'une porte et/ou de son comble-lacune</section_header_level_1>
+<text><loc_39><loc_112><loc_355><loc_147>Avant toute autre intervention et en cas de dysfonctionnement d'une porte et de son comblelacune, effectuer un «Reset» au moyen du carré d'isolement</text>
+<section_header_level_1><loc_39><loc_165><loc_154><loc_183>Isolement d'un comble-lacune</section_header_level_1>
+<unordered_list><list_item><loc_39><loc_183><loc_377><loc_236>En cas de défaillance du système d'entraînement d'un comble- lacune, celui-ci s'arrête dans la position dans laquelle la défaillance est survenue. Il doit être isolé en tournant d'un cran à droite le carré d'isolement. Le comble -lacune rentre électriquement</list_item>
+</unordered_list>
+<section_header_level_1><loc_39><loc_257><loc_125><loc_274>Isolement  d'une porte</section_header_level_1>
+<unordered_list><list_item><loc_39><loc_274><loc_276><loc_292>En cas de défaillance du système d'entraînement des portes</list_item>
+<list_item><loc_39><loc_292><loc_357><loc_328>Il doit être isolé en tournant de deux crans le carré d'isolement. Le comble -lacune rentre et la porte se ferme électriquement</list_item>
+<list_item><loc_39><loc_328><loc_142><loc_345>La porte est condamnée</list_item>
+</unordered_list>
+<picture><loc_67><loc_360><loc_91><loc_406></picture>
+<text><loc_97><loc_368><loc_259><loc_393>Le véhicule peut se mettre en marche lorsque tous les comble-lacunes sont rentrés</text>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<picture><loc_382><loc_165><loc_458><loc_378><caption><loc_387><loc_385><loc_453><loc_402>Carré d'isolement</caption></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>43</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_24><loc_459><loc_56>Dérangement d'une porte et/ou de son comble-lacune</section_header_level_1>
+<section_header_level_1><loc_52><loc_141><loc_198><loc_158>Condamnation mécanique d'une porte</section_header_level_1>
+<unordered_list><list_item><loc_52><loc_176><loc_212><loc_212>Laisser le carré d'isolement en position condamné</list_item>
+<list_item><loc_52><loc_212><loc_214><loc_247>Dévisser le bouchon au sol et tourner le carré d'un quart de tour</list_item>
+<list_item><loc_52><loc_248><loc_212><loc_265>Rentrer le comble-lacune manuellement</list_item>
+<list_item><loc_52><loc_265><loc_184><loc_283>Rabattre les battants de la porte</list_item>
+<list_item><loc_52><loc_283><loc_213><loc_318>Rétablir le carré au sol dans sa position initiale</list_item>
+</unordered_list>
+<picture><loc_54><loc_339><loc_77><loc_385></picture>
+<text><loc_85><loc_354><loc_176><loc_372>La porte est condamnée</text>
+<picture><loc_290><loc_146><loc_442><loc_358><caption><loc_294><loc_366><loc_360><loc_383>Carré d'isolement</caption></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>44</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_25><loc_444><loc_54>Fonctions des commutateurs du poste de conduite arriere</section_header_level_1>
+<section_header_level_1><loc_41><loc_116><loc_231><loc_133>Commutateur rotatif «Manœuvre sans sécurité» 1</section_header_level_1>
+<unordered_list><list_item><loc_47><loc_134><loc_283><loc_187>En  position « EN » la marche avec les portes ouvertes ou déverrouillées et les comble-lacunes sortis est possible sans voyageurs Vitesse maximum 5Km/h</list_item>
+<list_item><loc_41><loc_205><loc_260><loc_222>Commutateur rotatif «Ouverture de secours des portes» 2</list_item>
+<list_item><loc_47><loc_222><loc_273><loc_258>Pour déverrouiller les portes en secours, positionner le commutateur rotatif sur le côté sélectionné avec attention</list_item>
+<list_item><loc_47><loc_258><loc_301><loc_293>Lorsque le commutateur rotatif est remis dans la position initiale, les portes se verrouillent à nouveau</list_item>
+<list_item><loc_41><loc_311><loc_199><loc_329>Commutateur rotatif «Conduite forcée» 3</list_item>
+<list_item><loc_47><loc_329><loc_274><loc_382>Permet d'annuler certaines sécurités (ex. blocage du démarrage ou portes ouvertes, etc……) Vitesse maximum 30Km/h.</list_item>
+<list_item><loc_47><loc_383><loc_289><loc_400>Utilisation sans voyageurs, uniquement pour dégager les axes</list_item>
+</unordered_list>
+<picture><loc_308><loc_174><loc_472><loc_360></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>45</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_48><loc_25><loc_444><loc_54>Fonctions des commutateurs du poste de conduite arriere</section_header_level_1>
+<section_header_level_1><loc_50><loc_117><loc_266><loc_134>Commutateur rotatif  «Desserrage de secours des freins».</section_header_level_1>
+<unordered_list><list_item><loc_47><loc_134><loc_314><loc_170>En tournant le commutateur sur les positions A, B, C ou G les freins mécaniques du bogie sélectionné sont desserrés</list_item>
+<list_item><loc_47><loc_170><loc_326><loc_205>Cette fonction n'est cependant exécutée qu'en présence d'un ordre de traction</list_item>
+<list_item><loc_47><loc_206><loc_327><loc_241>Les freins restent desserrés jusqu'à ce que le commutateur soit replacé en position «0»</list_item>
+</unordered_list>
+<section_header_level_1><loc_50><loc_277><loc_185><loc_294>Procédure par le service compétant</section_header_level_1>
+<unordered_list><list_item><loc_47><loc_294><loc_317><loc_348>En maintenant le commutateur rotatif sur «A-G» on entraîne le desserrage de secours immédiat de tous les freins mécaniques. Si le commutateur est relâché, les freins mécaniques se resserrent</list_item>
+</unordered_list>
+<picture><loc_52><loc_375><loc_77><loc_411></picture>
+<section_header_level_1><loc_85><loc_366><loc_197><loc_383>Atteler le véhicule auparavant</section_header_level_1>
+<text><loc_85><loc_383><loc_309><loc_419>Lors de desserrage de secours, le véhicule n'est pas freiné Assurer le véhicule contre les déplacements intempestifs</text>
+<picture><loc_363><loc_144><loc_456><loc_408></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>46</page_footer>
+<page_break>
+<section_header_level_1><loc_47><loc_15><loc_391><loc_72>"dégradé》 La conduite en mode</section_header_level_1>
+<picture><loc_45><loc_121><loc_57><loc_141></picture>
+<unordered_list><list_item><loc_40><loc_144><loc_278><loc_197>En positionnant le sélecteur de marche en mode dégradé, le véhicule peut se déplacer sans l'assistance du VTCU (véhicule traction central unit)</list_item>
+<list_item><loc_40><loc_215><loc_277><loc_268>Lorsque le sélecteur de marche est en position dégradé, il n'a plus d'assistance électronique pour les ordre de traction et de freinage</list_item>
+<list_item><loc_40><loc_268><loc_266><loc_303>Certaines sécurités sont désactivées (p.ex. homme mort, freins de portes, déverrouillage portes)</list_item>
+<list_item><loc_40><loc_321><loc_270><loc_375>Le wattman peut déplacer le véhicule «sans voyageurs», il ne doit en aucun cas dépasser la vitesse de 30Km/h (plus de frein électrique)</list_item>
+</unordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<picture><loc_301><loc_174><loc_454><loc_360></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>47</page_footer>
+<page_break>
+<section_header_level_1><loc_47><loc_17><loc_445><loc_70>Commande du pantographe de secours</section_header_level_1>
+<unordered_list><list_item><loc_34><loc_133><loc_231><loc_151>Le pantographe est monté sur le toit du module C</list_item>
+<list_item><loc_34><loc_168><loc_326><loc_222>En cas d'absence ou d'une défaillance de la tension du réseau embarqué, le pantographe peut être levé à l'aide d'un bouton -poussoir ou baissé à l'aide d'un interrupteur par le conducteur</list_item>
+<list_item><loc_34><loc_240><loc_297><loc_293>Ces appareils se trouvent dans un voussoir du module C qui est muni du côté extérieur d'un pictogramme pour l'identifier, il se trouve à droite de la porte n°12</list_item>
+<list_item><loc_34><loc_311><loc_289><loc_346>Les positions finales sont indiquées par deux affichages lumineux (vert/baissé  - rouge/levé)</list_item>
+</unordered_list>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<picture><loc_380><loc_127><loc_433><loc_204></picture>
+<picture><loc_365><loc_215><loc_453><loc_362></picture>
+<page_footer><loc_185><loc_475><loc_189><loc_486>C</page_footer>
+<page_footer><loc_455><loc_472><loc_462><loc_483>48</page_footer>
+<page_break>
+<picture><loc_16><loc_135><loc_468><loc_471></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<page_footer><loc_455><loc_472><loc_462><loc_483>49</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<unordered_list><list_item><loc_47><loc_154><loc_284><loc_190>Certains disjoncteurs sont estampillés de pastilles rouges et d'une pastille verte</list_item>
+</unordered_list>
+<text><loc_47><loc_208><loc_235><loc_225>Verte : Disjoncteur RCT (uniquement en module A)</text>
+<text><loc_47><loc_225><loc_237><loc_243>Rouges : Consommateurs 24 V (en modules A,B.F)</text>
+<section_header_level_1><loc_47><loc_261><loc_306><loc_296>En cas de dysfonctionnement du pupitre RCT ou sur demande de la RCT:</section_header_level_1>
+<unordered_list><list_item><loc_47><loc_296><loc_298><loc_332>Déclencher le disjoncteur estampillé de la pastille verte (module A) pour une durée de 15 secondes</list_item>
+</unordered_list>
+<section_header_level_1><loc_47><loc_350><loc_298><loc_367>Si le véhicule n'est plus alimenté en 600 V, en accord avec la RCT :</section_header_level_1>
+<unordered_list><list_item><loc_47><loc_368><loc_280><loc_403>Déclencher les disjoncteurs estampillés de pastilles rouges (modules A,B,F)</list_item>
+</unordered_list>
+<picture><loc_312><loc_186><loc_451><loc_372></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>50</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_94><loc_99><loc_393><loc_135>En cas de dysfonctionnement du système d'ouverture inverse des portes (TAG MASTER)</section_header_level_1>
+<unordered_list><list_item><loc_94><loc_153><loc_373><loc_206>Déclencher puis réenclencher le disjoncteur 523 F qui se trouve dans le voussoir, module à gauche de la porte 12</list_item>
+</unordered_list>
+<picture><loc_104><loc_228><loc_178><loc_415></picture>
+<picture><loc_249><loc_229><loc_400><loc_415></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>51</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_11><loc_225><loc_72>d'attelage Barre c</section_header_level_1>
+<picture><loc_145><loc_95><loc_370><loc_319></picture>
+<ordered_list><list_item><loc_90><loc_348><loc_198><loc_366>Cheville d'accouplement</list_item>
+<list_item><loc_90><loc_366><loc_205><loc_384>Goupille fendue abattante</list_item>
+<list_item><loc_90><loc_384><loc_203><loc_401>Manchon d'accouplement</list_item>
+<list_item><loc_90><loc_402><loc_199><loc_419>Câbles de mise à la terre</list_item>
+<list_item><loc_90><loc_419><loc_245><loc_437>Verrouillage de l'articulation pivotante</list_item>
+<list_item><loc_277><loc_348><loc_358><loc_366>Barre de traction</list_item>
+<list_item><loc_277><loc_366><loc_317><loc_384>Appui</list_item>
+<list_item><loc_277><loc_384><loc_371><loc_401>Tête de remorquage</list_item>
+<list_item><loc_277><loc_402><loc_356><loc_419>Œillet d'attelage</list_item>
+<list_item><loc_277><loc_419><loc_332><loc_437>Support</list_item>
+</ordered_list>
+<page_footer><loc_455><loc_472><loc_462><loc_483>52</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_11><loc_225><loc_72>d'attelage Barre c</section_header_level_1>
+<section_header_level_1><loc_152><loc_120><loc_340><loc_138>Procédure de déploiement de la barre d'attelage</section_header_level_1>
+<ordered_list><list_item><loc_152><loc_155><loc_318><loc_173>Positionner le sélecteur de marche sur 0</list_item>
+<list_item><loc_152><loc_173><loc_284><loc_191>Déverrouiller le capot concerné</list_item>
+<list_item><loc_152><loc_191><loc_223><loc_209>Lever le capot</list_item>
+<list_item><loc_152><loc_209><loc_347><loc_226>Assurer le capot avec les 2 goupilles de sécurité</list_item>
+</ordered_list>
+<picture><loc_83><loc_279><loc_159><loc_387></picture>
+<picture><loc_116><loc_392><loc_127><loc_412></picture>
+<picture><loc_166><loc_279><loc_246><loc_387></picture>
+<picture><loc_199><loc_392><loc_212><loc_412></picture>
+<picture><loc_250><loc_279><loc_331><loc_387></picture>
+<picture><loc_285><loc_392><loc_297><loc_412></picture>
+<picture><loc_336><loc_279><loc_416><loc_387></picture>
+<picture><loc_370><loc_392><loc_382><loc_412></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>53</page_footer>
+<page_break>
+<picture><loc_16><loc_453><loc_44><loc_473></picture>
+<text><loc_15><loc_448><loc_45><loc_479>gtpg</text>
+<section_header_level_1><loc_47><loc_11><loc_225><loc_72>d'attelage Barre c</section_header_level_1>
+<section_header_level_1><loc_56><loc_134><loc_239><loc_152>Procédure de déploiement de la barre d'attelage</section_header_level_1>
+<ordered_list><list_item><loc_56><loc_170><loc_201><loc_188>Dégoupiller la tête de remorquage</list_item>
+<list_item><loc_56><loc_188><loc_444><loc_205>Déployer la barre de traction jusqu'en butée pour permettre le verrouillage de l'articulation pivotante</list_item>
+<list_item><loc_56><loc_205><loc_183><loc_223>Présenter la barre de traction</list_item>
+</ordered_list>
+<picture><loc_98><loc_253><loc_199><loc_388></picture>
+<picture><loc_141><loc_399><loc_152><loc_418></picture>
+<picture><loc_206><loc_254><loc_307><loc_389></picture>
+<picture><loc_250><loc_398><loc_262><loc_418></picture>
+<picture><loc_312><loc_254><loc_414><loc_389></picture>
+<picture><loc_357><loc_399><loc_369><loc_418></picture>
+<page_footer><loc_455><loc_472><loc_462><loc_483>54</page_footer>
+</doctag>
