@@ -17,7 +17,8 @@ class RoleInfo(BaseModel):
 
 
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-CONNECTION_STRING = "postgresql+psycopg2://raguser:ragpass@localhost:5432/ragdb"
+CONNECTION_STRING = "postgresql://raguser:ragpass@postgres:5432/ragdb"
+#"postgresql+psycopg2://raguser:ragpass@localhost:5432/ragdb"
 collection_name = "tpg_docs"
 
 vector_store = PGVector(
@@ -42,7 +43,7 @@ def find_role(question):
     # 1. Load roles from Chroma
     # ---------------------------
     conn = psycopg2.connect(
-        host="localhost",
+        host="postgres",
         dbname="ragdb",
         user="raguser",
         password="ragpass",

@@ -7,10 +7,12 @@ services:
     volumes:
       - ./chroma_db:/app/chroma_db
     restart: unless-stopped
+    depends_on:
+      - postgres
 
   postgres:
     image: pgvector/pgvector:pg16
-    container_name: pgvector-db
+    container_name: postgres
     environment:
       POSTGRES_USER: raguser
       POSTGRES_PASSWORD: ragpass

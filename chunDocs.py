@@ -103,7 +103,8 @@ llm = ChatOpenAI(
 # 5. Vector store setup
 # ---------------------------
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-CONNECTION_STRING = "postgresql+psycopg2://raguser:ragpass@localhost:5432/ragdb"
+CONNECTION_STRING = "postgresql://raguser:ragpass@postgres:5432/ragdb"
+#"postgresql+psycopg2://raguser:ragpass@localhost:5432/ragdb"
 collection_name = "tpg_docs"
 
 vector_store = PGVector(
