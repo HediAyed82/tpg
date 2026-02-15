@@ -5,7 +5,6 @@ from pydantic import BaseModel
 from langchain_postgres import PGVector
 
 import psycopg2
-import itertools
 import chainlit as cl
 
 from dotenv import load_dotenv
@@ -108,7 +107,7 @@ def retrieve_docs(question, roleInfo: RoleInfo):
             }
         }
     )
-    
+
     return retriever.invoke(question)
 
 
