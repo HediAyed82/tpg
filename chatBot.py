@@ -2,7 +2,9 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from pydantic import BaseModel
 
-from langchain_chroma import Chroma
+from langchain_postgres import PGVector
+
+import psycopg2
 import itertools
 import chainlit as cl
 
@@ -15,14 +17,15 @@ class RoleInfo(BaseModel):
     behaviour: str
 
 
-embeddings = OpenAIEmbeddings(
-    model="text-embedding-ada-002" 
-)
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+CONNECTION_STRING = "postgresql+psycopg2://raguser:ragpass@localhost:5432/ragdb"
+collection_name = "tpg_docs"
 
-vectorstore = Chroma(
-    collection_name="docling_simple",
-    embedding_function=embeddings,
-    persist_directory="./chroma_db"
+vector_store = PGVector(
+    embeddings=embeddings,
+    collection_name=collection_name,
+    connection=CONNECTION_STRING,
+    use_jsonb=True,
 )
 
 answer_llm = ChatOpenAI(
@@ -36,20 +39,28 @@ answer_llm = ChatOpenAI(
 # 1. Find the relevant role
 # ---------------------------
 def find_role(question):
-
     # ---------------------------
     # 1. Load roles from Chroma
     # ---------------------------
-    data = vectorstore._collection.get(include=["metadatas"])
-
-    unique_roles = sorted({
-        meta.get("role")
-        for meta in data.get("metadatas", [])
-        if meta and meta.get("role")
-    })
-
-    # Convert to string for prompt
+    conn = psycopg2.connect(
+        host="localhost",
+        dbname="ragdb",
+        user="raguser",
+        password="ragpass",
+        port=5432
+    )
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT DISTINCT jsonb_array_elements_text(cmetadata->'roles') AS role
+        FROM langchain_pg_embedding
+        WHERE cmetadata ? 'roles'
+        ORDER BY role;
+    """)
+    unique_roles = [row[0] for row in cur.fetchall()]
     allowed_roles_str = ", ".join(f"'{r}'" for r in unique_roles)
+   
+    cur.close()
+    conn.close()
 
     # ---------------------------
     # 2. LLM with structured output
@@ -86,15 +97,14 @@ def find_role(question):
 
 
 # -------------------------------------------
-# 2. Extract chencks from DB with similarity
+# 2. Extract chuncks from DB with similarity
 # -------------------------------------------
 def retrieve_docs(question, roleInfo: RoleInfo):
-    retriever = vectorstore.as_retriever(
-        search_type="similarity",
+    retriever = vector_store.as_retriever(
         search_kwargs={
-            "k": 5, 
+            "k": 5,
             "filter": {
-                "role": roleInfo.role 
+                "roles": [roleInfo.role]
             }
         }
     )

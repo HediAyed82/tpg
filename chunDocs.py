@@ -6,8 +6,8 @@ from pydantic import BaseModel
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_core.documents import Document
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_community.vectorstores.utils import filter_complex_metadata
-from langchain_chroma import Chroma
+
+from langchain_postgres import PGVector
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -16,8 +16,8 @@ load_dotenv()
 # ---------------------------
 # 1. Input folder
 # ---------------------------
-input_folder = Path("docling_simple") 
-#input_folder = Path("sample") 
+#input_folder = Path("docling_simple") 
+input_folder = Path("doctags") 
 doctags_files = list(input_folder.glob("*.doctags"))
 
 if not doctags_files:
@@ -32,7 +32,7 @@ class ChunkInfo(BaseModel):
     chunk_id: str
     title: str
     content: str
-    role: str
+    roles: List[str]
     keywords: List[str]
 
 class ChunkingResult(BaseModel):
@@ -58,17 +58,21 @@ prompt = ChatPromptTemplate.from_messages(
                     1. "chunk_id": a unique identifier for the chunk
                     2. "title": a descriptive title for the chunk
                     3. "content": the text of the chunk
-                    4. "role": the type of agent who would be responsible for answering questions related to this chunk in the future.
-                    Examples of roles include: "Human Resources", "Technical Support", "Legal Advisor", "Finance Operator", "Marketing Agent", etc.
+                    4. "roles": Provide a list containing up to 3 distinct role names (minimum 1, maximum 3). Each role must represent the type of professional 
+                    or department that would be responsible for answering questions related to this chunk in the future.
                     5. "keywords": a list of important keywords or concepts present in the chunk
 
                     Rules:
 
                     - Split the document into **semantic chunks** preserving meaning; do not invent content.
-                    - Assign the **most appropriate role** to each chunk based on its content.
+                    - Assign the **most appropriate roles** to each chunk based on its content.
                     - Be concise and accurate; each chunk should be independent and self-contained.
-                    - Stay generic when selecting the role, don't select sub-role like: Operations Management,Compliance. In this example Operations Management is enough. 
-                    - Output **JSON only**, following the ChunkInfo structure provided.
+                    - Stay generic when selecting the roles, don't select sub-role like: Operations Management,Compliance. In this example Operations Management is enough. 
+                    - Roles must be concise (2–4 words maximum).
+                    - Use professional function titles, not personal names.
+                    - Do not invent overly specific or fictional roles.
+                    - Avoid generic labels like "Employee" or "Staff".
+                    - Output must be a JSON array of strings.
 
                     The goal is to create a set of **structured chunks** ready for **embedding and vector storage**, including the role that will be used later for question answering.
                 """
@@ -87,7 +91,7 @@ prompt = ChatPromptTemplate.from_messages(
 
 
 # ---------------------------
-# 4. LLM (cheap model)
+# 4. LLM 
 # ---------------------------
 llm = ChatOpenAI(
     model="gpt-5.1",
@@ -98,13 +102,16 @@ llm = ChatOpenAI(
 # ---------------------------
 # 5. Vector store setup
 # ---------------------------
-embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
-vectorstore = Chroma(
-    collection_name="docling_simple",
-    embedding_function=embeddings,
-    persist_directory="./chroma_db"
-)
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+CONNECTION_STRING = "postgresql+psycopg2://raguser:ragpass@localhost:5432/ragdb"
+collection_name = "tpg_docs"
 
+vector_store = PGVector(
+    embeddings=embeddings,
+    collection_name=collection_name,
+    connection=CONNECTION_STRING,
+    use_jsonb=True,
+)
 
 # ---------------------------
 # 6. Process each file
@@ -127,16 +134,16 @@ for doctags_path in doctags_files:
             metadata={
                 "chunk_id": chunk.chunk_id,
                 "title": chunk.title,
-                "role": chunk.role, 
-                "keywords": ",".join(chunk.keywords),
-                "source": doctags_path.stem  # dynamic source
+                "roles": chunk.roles, 
+                "keywords": chunk.keywords,
+                "source": doctags_path.stem 
             }
         )
         print(f'Document: {doc.metadata}')
         documents.append(doc)
 
     # Add to vector store
-    vectorstore.add_documents(filter_complex_metadata(documents))
+    vector_store.add_documents(documents)
     print(f"Stored {len(documents)} chunks from {doctags_path.name}.")
 
 

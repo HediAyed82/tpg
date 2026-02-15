@@ -17,8 +17,8 @@ _log = logging.getLogger(__name__)
 def main():
     logging.basicConfig(level=logging.INFO)
 
-    data_folder = Path(r"C:\dev\workspace\perso\langchain01\data")
-    output_dir = Path("docling_simple")
+    data_folder = Path(r"./sample")
+    output_dir = Path("./sample")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Configure pipeline options (done once)
@@ -61,18 +61,6 @@ def main():
             )
 
             doc_filename = conv_result.input.file.stem
-
-            # Export JSON
-            #with (output_dir / f"{doc_filename}.json").open("w", encoding="utf-8") as fp:
-            #    fp.write(json.dumps(conv_result.document.export_to_dict(), ensure_ascii=False, indent=2))
-
-            # Export TXT (strict text)
-            #with (output_dir / f"{doc_filename}.txt").open("w", encoding="utf-8") as fp:
-            #    fp.write(conv_result.document.export_to_markdown(strict_text=True))
-
-            # Export Markdown
-            with (output_dir / f"{doc_filename}.md").open("w", encoding="utf-8") as fp:
-                fp.write(conv_result.document.export_to_markdown())
 
             # Export DocTags
             with (output_dir / f"{doc_filename}.doctags").open("w", encoding="utf-8") as fp:
