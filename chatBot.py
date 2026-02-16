@@ -1,4 +1,4 @@
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from pydantic import BaseModel
 
@@ -33,6 +33,9 @@ answer_llm = ChatOpenAI(
     temperature=0,
     streaming=True
 )
+
+MAX_HISTORY = 3
+MAX_SYSTEM_PROMPT_CHARS = 1000
 
 
 # ---------------------------
@@ -137,6 +140,15 @@ def format_docs(docs):
 
 async def ask_question(question, docs, roleInfo):
 
+    # Get session history
+    history = cl.user_session.get("history", [])
+
+    # Keep only last 3 exchanges (user+assistant pairs)
+    history = history[-MAX_HISTORY * 2:]
+
+    # Limit system prompt size
+    limited_behaviour = roleInfo.behaviour[:MAX_SYSTEM_PROMPT_CHARS]
+
     answer_prompt = ChatPromptTemplate.from_messages([
         (
             "system",
@@ -153,8 +165,9 @@ async def ask_question(question, docs, roleInfo):
             - Do not invent legal or technical interpretations
             """
         ),
+        MessagesPlaceholder(variable_name="history"),
         (
-            "human",
+            "user",
             """
             User question:
             {question}
@@ -170,22 +183,45 @@ async def ask_question(question, docs, roleInfo):
     msg = cl.Message(author=roleInfo.role, content="")
     await msg.send()
 
+    full_answer = ""
+
     async for chunk in chain.astream({
         "question": question,
-        "behaviour": roleInfo.behaviour,
+        "behaviour": limited_behaviour,
         "role": roleInfo.role,
-        "context": format_docs(docs)
+        "context": format_docs(docs),
+        "history": history
     }):
-        await msg.stream_token(chunk.content)
+        if chunk.content:
+            full_answer += chunk.content
+            await msg.stream_token(chunk.content)
 
     await msg.update()
 
+    # ---------------------------
+    # Save to session history
+    # ---------------------------
+    history.append({"role": "user", "content": question})
+    history.append({"role": "assistant", "content": full_answer})
+
+    # Trim again after append
+    history = history[-MAX_HISTORY * 2:]
+
+    cl.user_session.set("history", history)
+
+
+
+@cl.on_chat_start
+def start():
+    cl.user_session.set("history", [])
 
 
 @cl.on_message
 async def main(message: cl.Message):
-    # 1️⃣ Detect role from user question
+
+    # 1️⃣ Detect role
     roleInfo = find_role(message.content)
+
     formatted_output = f"""
     ## 🎭 Selected Role
     **{roleInfo.role}**
@@ -194,11 +230,10 @@ async def main(message: cl.Message):
     {roleInfo.behaviour}
     """
     await cl.Message(content=formatted_output, author="Role Router").send()
-    
 
-
-    # 2️⃣ Retrieve relevant chunks from Chroma
+    # 2️⃣ Retrieve docs
     docs = retrieve_docs(message.content, roleInfo)
+
     if docs:
         formatted_sources = "## 📚 Retrieved Sources\n\n"
 
@@ -213,9 +248,49 @@ async def main(message: cl.Message):
 
         await cl.Message(content=formatted_sources, author="Retriever").send()
     else:
-        await cl.Message(content="No relevant documents found.", author="Retriever").send()
+        await cl.Message(
+            content="No relevant documents found.",
+            author="Retriever"
+        ).send()
 
 
-    
-    # 3️⃣ Format context and answer question
+    # 3️⃣ Display current session history (before generating new answer)
+    history = cl.user_session.get("history", [])
+
+    if history:
+        formatted_history = "## 🧠 Current Session Memory\n\n"
+
+        exchange_number = 1
+        for i in range(0, len(history), 2):
+            user_msg = history[i]["content"] if i < len(history) else ""
+            assistant_msg = history[i+1]["content"] if i+1 < len(history) else ""
+
+            formatted_history += (
+                f"### 🔁 Exchange {exchange_number}\n"
+                f"**👤 User:**\n{user_msg}\n\n"
+                f"**🤖 Assistant:**\n{assistant_msg}\n\n"
+            )
+
+            exchange_number += 1
+
+        await cl.Message(
+            content=formatted_history,
+            author="Session Memory"
+        ).send()
+
+
+    # 4️⃣ Ask LLM (history handled inside)
     await ask_question(message.content, docs, roleInfo)
+
+
+
+
+@cl.password_auth_callback
+def auth(username: str, password: str):
+    if username == "hedi" and password == "hedi":
+        return cl.User(identifier="hedi")
+    if username == "lasaad" and password == "lasaad":
+        return cl.User(identifier="lassad")
+    if username == "damian" and password == "damian":
+        return cl.User(identifier="damian")
+    return None

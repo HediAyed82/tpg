@@ -5,10 +5,12 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./chroma_db:/app/chroma_db
+      - .:/app
     restart: unless-stopped
     depends_on:
       - postgres
+    environment:
+      - CHAINLIT_AUTH_SECRET="A1AxM:1OM$gGUo?3y=^,vzN7_If@L.bTV7wbh9xy5>=N4LcxAh^,g9Pc2Lcb$_uu"
 
   postgres:
     image: pgvector/pgvector:pg16
