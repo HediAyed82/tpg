@@ -289,7 +289,7 @@ async def main(message: cl.Message):
 def auth(username: str, password: str):
     if username == "hedi" and password == "hedi":
         return cl.User(identifier="hedi")
-    if username == "lasaad" and password == "lasaad":
+    if username == "lassad" and password == "lassad":
         return cl.User(identifier="lassad")
     if username == "damian" and password == "damian":
         return cl.User(identifier="damian")
